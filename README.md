@@ -1,2 +1,2 @@
 # hello-world
-These are small changes to test the comit procedure
+These are small changes to test the commit procedure
